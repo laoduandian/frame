@@ -6,7 +6,7 @@ INJECTED from /Users/luoyi/android/libgdx/AndroidStudioWorkSpace/HelloLibrary/ap
 INJECTED from /Users/luoyi/android/libgdx/AndroidStudioWorkSpace/HelloLibrary/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/244b46e2374a2269353834a95ab03aae/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a037cedbd035910cc41bdd1c61fdc602/AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.laoduandian:HelloLibrary:V1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/HelloLibrary-V1.1.aar/f37822679c0bb595b78f98f5cb18032c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.laoduandian:frame:v1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/frame-v1.1.aar/1a390d3c7b938e6b4f2a69d63791214b/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/28fc4a9256c48e7a0ad384d469b05aa7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1818d81dd3e9bc1880d94526759137e9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/556a7d4fd796a4c791b569a24cfb0336/AndroidManifest.xml:17:1-22:12
@@ -72,8 +72,8 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/luoyi/.gradle/cache
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/244b46e2374a2269353834a95ab03aae/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a037cedbd035910cc41bdd1c61fdc602/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/a037cedbd035910cc41bdd1c61fdc602/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.laoduandian:HelloLibrary:V1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/HelloLibrary-V1.1.aar/f37822679c0bb595b78f98f5cb18032c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.laoduandian:HelloLibrary:V1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/HelloLibrary-V1.1.aar/f37822679c0bb595b78f98f5cb18032c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.laoduandian:frame:v1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/frame-v1.1.aar/1a390d3c7b938e6b4f2a69d63791214b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.laoduandian:frame:v1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/frame-v1.1.aar/1a390d3c7b938e6b4f2a69d63791214b/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/28fc4a9256c48e7a0ad384d469b05aa7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/28fc4a9256c48e7a0ad384d469b05aa7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/luoyi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/1818d81dd3e9bc1880d94526759137e9/AndroidManifest.xml:20:5-44

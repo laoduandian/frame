@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.library.CustomUtil;
+import com.example.library2.Soms;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -12,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         CustomUtil.getMyHero();
+        Soms s = new Soms();
     }
 }
